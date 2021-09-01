@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(143, 193, 240);
+}
+
+h1 {
+    color: rgb(21, 66, 66);
+    text-align: center;
+}
+
+.box {
+    display: inline-block;
+    margin: 5% 10% 5% 10%;
+    width: 350px;
+    text-align: center;
+}
+
